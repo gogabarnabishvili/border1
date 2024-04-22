@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+.box-1 {
+    width: 305px;
+    height: 168px;
+    border: 1px solid #db00ff;
+}
+.box-2 {
+    width: 657px;
+    height: 121px;
+    border: 3px dashed #450e4e;
+}
+.box-3 {
+    width: 399px;
+    height: 95px;
+    border: 3px solid #04ff4a;
+}
+.box-4 {
+    width: 1097px;
+    height: 173px;
+    border: 3px solid #736e42;
+    background-color: #247daf;
+}
